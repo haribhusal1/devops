@@ -1,5 +1,1 @@
-This is another test file.
-Some changes. 
-
-I love this planet earth.
-Branching Strategies
+"This is FileB-Version2-"
